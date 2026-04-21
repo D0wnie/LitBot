@@ -158,4 +158,4 @@ async def on_command_error(ctx, error):
         await ctx.send("❌ Narys nerastas!")
 
 import os
-bot.run(os.environ['MTQ5NTkyMzg2NDQzNjIxMTg5Mw.GrOOJW.buhlH0uG8bnLUQiC8DzeV2i4DeuAPyDy2jFCSw'])
+bot.run(os.environ['TOKEN'])
